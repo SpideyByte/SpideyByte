@@ -1,1 +1,1 @@
-[![SpideyByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpideyByte)](https://github.com/anuraghazra/github-readme-stats)
+[![SpideyByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpideyByte&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
